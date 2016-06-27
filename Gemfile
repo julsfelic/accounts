@@ -14,6 +14,7 @@ gem 'react-rails', '~> 1.0'
 
 group :development, :test do
   gem 'byebug'
+  gem 'pry'
 end
 
 group :development do
